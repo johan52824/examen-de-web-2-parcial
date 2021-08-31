@@ -1,0 +1,73 @@
+"cliente": [
+      {
+        "apellidos": "mera",
+        "nombres": "erick
+        "cedula": 1215722205,
+        "direccion": "pile",
+        "telefono": "099888866"
+      },
+      {
+        "apellidos": "mera ",
+        "nombres": "sofia",
+        "cedula": 29494949494,
+        "direccion": "calle 323",
+        "telefono": "273737"
+      },
+      {
+        "apellidos": "mera ",
+        "nombres": "manuel",
+        "cedula": 1309079539,
+        "direccion": "manta",
+        "telefono": "90887666"
+      },
+      {
+        "apellidos": "ordoñez",
+        "nombres": "yomaira",
+        "cedula": 1317626262,
+        "direccion": "portoviejo",
+        "telefono": "4682822"
+      },
+      {
+        "apellidos": "lucas",
+        "nombres": "dayana",
+        "cedula": 345454545,
+        "direccion": "los bajos ",
+        "telefono": "94848484"
+      },
+      {
+        "apellidos": "espinal",
+        "nombres": "yair",
+        "cedula": 134444444,
+        "direccion": "manta",
+        "telefono": "3324434"
+      },
+      {
+        "apellidos": "ordoñez",
+        "nombres": "elvis",
+        "cedula": 134645555,
+        "direccion": "calle san juan",
+        "telefono": "32233232"
+      },
+      {
+        "apellidos": "zamora",
+        "nombres": "jose",
+        "cedula": 143838383,
+        "direccion": "calle pile",
+        "telefono": "09888888776"
+      },
+      {
+        "apellidos": "espinal",
+        "nombres": "maria",
+        "cedula": 134455555,
+        "direccion": "pile",
+        "telefono": "4444444"
+      },
+      {
+        "apellidos": "martinez",
+        "nombres": "johan",
+        "cedula": 134455555,
+        "direccion": "circuvalacion",
+        "telefono": "284747474"
+     
+    ]
+}
